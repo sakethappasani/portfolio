@@ -27,7 +27,7 @@ const HeroSection = () => {
         <div className="badge-container">
           {[
             "Java", "SQL", "MySQL", "MongoDB", "PostgreSQL",
-            "JPA", "Hibernate", "Spring", "Spring Boot", "JSP",
+            "JPA", "Hibernate", "Spring", "Docker", "Spring Boot", "JSP",
             "Servlets", "Redis", "HTML", "CSS", "JavaScript",
             "React.js", "Git", "GitHub", "Postman", "Maven", "Agile"
           ].map((tech) => (
