@@ -6,8 +6,9 @@ import mysql from '../assets/tech/mysql.png';
 import mongodb from '../assets/tech/mongodb.png';
 import postman from '../assets/tech/postman.png';
 import git from '../assets/tech/git.png';
+import docker from '../assets/tech/Docker.png';
 
-const logos = [java, spring, react, mysql, mongodb, postman, git];
+const logos = [java, spring, docker, react, mysql, mongodb, postman, git];
 
 const TechLogos = () => {
   return (
