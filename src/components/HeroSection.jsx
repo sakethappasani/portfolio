@@ -1,5 +1,5 @@
 import React from "react";
-import image from "./profile.JPG";
+import image from "./IMG_0990.jpeg";
 import TechLogos from "./TechLogos";
 
 const HeroSection = () => {
