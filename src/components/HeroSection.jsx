@@ -1,5 +1,5 @@
 import React from "react";
-import image from "./profile.JPG";
+import image from "./IMG_0990.jpeg";
 import TechLogos from "./TechLogos";
 
 const HeroSection = () => {
@@ -27,7 +27,7 @@ const HeroSection = () => {
         <div className="badge-container">
           {[
             "Java", "SQL", "MySQL", "MongoDB", "PostgreSQL",
-            "JPA", "Hibernate", "Spring", "Spring Boot", "JSP",
+            "JPA", "Hibernate", "Spring", "Docker", "Spring Boot", "JSP",
             "Servlets", "Redis", "HTML", "CSS", "JavaScript",
             "React.js", "Git", "GitHub", "Postman", "Maven", "Agile"
           ].map((tech) => (

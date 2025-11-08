@@ -11,13 +11,6 @@ const projects = [
     repo: "https://github.com/sakethappasani/taskmanagementsystem",
   },
   {
-    title: "Portfolio Website",
-    date: "2025",
-    tech: "React, Vite",
-    description: "Personal portfolio site with timeline and skill badges",
-    repo: "https://github.com/sakethappasani/portfolio",
-  },
-  {
     title: "Journal Application",
     date: "2024-2025",
     tech: "Spring Boot, JWT, Spring Security",
@@ -33,6 +26,14 @@ const projects = [
       "A web-based application to manage student extracurricular activities, including event registrations, role-based access, and activity tracking using Spring MVC and JSP.",
     repo: "https://github.com/sakethappasani/student-extracurricular-activity_management-system",
   },
+  {
+  title: "ERP for Educational Institution",
+  date: "2024",
+  tech: "Java, JSP, EJB, Servlets, JPA, JDBC, MySQL",
+  description:
+    "An ERP system for managing students, faculty, courses, and academic activities using Java EE technologies with database support.",
+  repo: "https://github.com/sakethappasani/erp_ep_project",
+}
 ];
 
 const ProjectsTimeline = () => {
